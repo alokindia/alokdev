@@ -1,0 +1,34 @@
+mailto:vskreddy652@yahoo.com
+
+
+
+https://www.youtube.com/watch?v=9433A7jHe2U
+
+
+junit test case
+
+
+jmax file need report screenshot
+
+5 springboot starters
+
+jpa and crud difference
+
+application-
+
+3 annotaion apart from @entity
+
+advatnages of angular
+
+
+@viewchild
+
+observable and promise difference
+
+jenkins steps docs- 4 steps
+rdbms 
+
+
+https://github.com/vskreddy652/Genc_BatchB/blob/master/Microservice_other_mandatory_topics.docx
+
+https://www.springboottutorial.com/spring-boot-unit-testing-and-mocking-with-mockito-and-junit
